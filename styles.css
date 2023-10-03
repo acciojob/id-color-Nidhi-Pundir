@@ -7,6 +7,10 @@
 	border-bottom-style:solid;
 	border-left-style:solid;
 	border-right-style:solid;
+	border-top-color:rgb(0, 128, 0);
+	border-bottom-color:rgb(0, 128, 0);
+	border-left-color:rgb(0, 128, 0);
+	border-right-color:rgb(0, 128, 0);
 }
 /*  your css code here. If applicable */
 #red{
