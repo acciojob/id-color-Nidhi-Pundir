@@ -4,6 +4,7 @@
 	border-color:green solid;
 	Border-width: 1px;
 	border-top-style:solid;
+	border-bottom-style:solid;
 }
 /*  your css code here. If applicable */
 #red{
@@ -11,6 +12,7 @@
 	border-color:black;
 	Border-width: 1px;
 	border-top-style:solid;
+	border-bottom-style:solid;
 }
 /*  your css code here. If applicable */
 #green{
@@ -18,4 +20,5 @@
 	border-color:yellow;
 	Border-width: 1px;
 	border-top-style:solid;
+	border-bottom-style:solid;
 }
